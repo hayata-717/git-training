@@ -1,2 +1,1 @@
-Hello Git
-Feature branch edit
+Hello Git (edited in feature2)
