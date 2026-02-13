@@ -1,1 +1,2 @@
 Hello Git (edited in master)
+Hello Git (edited in feature2)
